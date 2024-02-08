@@ -1,4 +1,5 @@
-fter module"""
+#!/usr/bin/python3
+"""append_after module"""
 
 
 def append_after(filename="", search_string="", new_string=""):
