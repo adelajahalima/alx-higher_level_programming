@@ -1,4 +1,9 @@
-scal_traigle module."""
+#!/usr/bin/python3
+"""pascal_traigle module."""
+
+
+def pascal_triangle(n):
+    """ pascal_traigle module."""
 
 
 def pascal_triangle(n):
