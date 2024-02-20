@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Defines unittest for models/rectangle.py.
+"""Defines unit test for models/rectangle.py.
 """
 import io
 import sys
